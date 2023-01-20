@@ -1,0 +1,25 @@
+{
+  "name": "sourceful_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 20000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yahor-r/sourceful_task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yahor-r/sourceful_task/issues"
+  },
+  "homepage": "https://github.com/yahor-r/sourceful_task#readme",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "chromedriver": "latest",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.7.1"
+  }
+}

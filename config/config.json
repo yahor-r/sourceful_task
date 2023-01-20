@@ -1,0 +1,5 @@
+{
+    "timeouts": {
+        "baseTimeout": 5000
+    }
+}

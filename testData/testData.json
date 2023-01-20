@@ -1,0 +1,13 @@
+{
+    "contactForm": {
+        "nameAndSurname": "Egor Ryzhko",
+        "emailAddress": "ryzh.egor03@gmail.com",
+        "messageSubject": "Applying for QA position",
+        "message": "Applying for QA position",
+        "validationMessage": {
+            "success": {
+                "pl": "Dziękujemy, wiadomość została wysłana."
+            }
+        }
+    }
+}
